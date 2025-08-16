@@ -27,8 +27,3 @@ This project showcases:
   - SEO keyword plan  
   - Blog post  
   - Social media posts (LinkedIn & Instagram)
-
----
-
-## Repository Structure
-
