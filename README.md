@@ -5,7 +5,7 @@ This repo demonstrates **multi-agent collaboration**, **custom tools**, and **YA
 
 ---
 
-## Overview
+## 📌 Overview
 This project showcases:
 - Single-agent email polishing
 - Custom tool integration (jargon expansion)
@@ -16,7 +16,7 @@ This project showcases:
 
 ---
 
-## Features
+## 📝 Features
 - **Email Professionalizer** → Rewrite rough emails into a clear, professional tone.
 - **Custom Jargon Tool** → Automatically expands acronyms (ASAP → as soon as possible).
 - **Research + Writer Crew** → Gathers fresh facts and drafts blogs.
@@ -30,11 +30,12 @@ This project showcases:
  
 ---
 
-## Skills Highlighted
+## 🔑 Skills Highlighted
 - Multi-agent orchestration (CrewAI)
 - Custom AI tool integration
 - Real-time search APIs
 - Prompt engineering
 - YAML-based configuration
 - Marketing content generation automation
+
 
