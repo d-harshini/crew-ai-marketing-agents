@@ -1,13 +1,12 @@
-# CrewAI Marketing Agents 🚀
+# CrewAI Marketing Agents 
 
 A complete **agentic AI marketing automation** project built with [CrewAI](https://www.crewai.com/), Google Gemini, and optional Serper search.  
 This repo demonstrates **multi-agent collaboration**, **custom tools**, and **YAML-based configuration** for real-world marketing workflows.
 
 ---
 
-## 📌 Overview
-This project turns the CrewAI crash course into a **polished, reproducible portfolio project**.  
-It showcases:
+## Overview
+This project showcases:
 - Single-agent email polishing
 - Custom tool integration (jargon expansion)
 - Multi-agent research + writing workflows
@@ -17,7 +16,7 @@ It showcases:
 
 ---
 
-## 🛠 Features
+## Features
 - **Email Professionalizer** → Rewrite rough emails into a clear, professional tone.
 - **Custom Jargon Tool** → Automatically expands acronyms (ASAP → as soon as possible).
 - **Research + Writer Crew** → Gathers fresh facts and drafts blogs.
@@ -31,4 +30,5 @@ It showcases:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
+
