@@ -27,3 +27,11 @@ This project showcases:
   - SEO keyword plan  
   - Blog post  
   - Social media posts (LinkedIn & Instagram)
+
+## Skills Highlighted
+- Multi-agent orchestration (CrewAI)
+- Custom AI tool integration
+- Real-time search APIs
+- Prompt engineering
+- YAML-based configuration
+- Marketing content generation automation
